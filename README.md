@@ -1,5 +1,3 @@
-# multimodel-repurchase-prediction
-MSc Thesis: Enhancing Customer Repurchase Prediction with Targeted CLIP Features
 # Enhancing Customer Repurchase Prediction with Targeted CLIP Features
 ## An RFM-Based Multimodal Approach
 
